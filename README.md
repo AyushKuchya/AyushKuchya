@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushKuchya
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flask
 - 📫 How to reach me kuchyaayush@gmail.com
 
 <!---
