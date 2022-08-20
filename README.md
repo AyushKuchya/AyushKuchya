@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushKuchya
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning MEAN STACk
 - 📫 How to reach me kuchyaayush@gmail.com
 
 <!---
